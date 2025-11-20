@@ -57,25 +57,25 @@ System Architecture
 HostelFinder consists of:
 
 1. Frontend
-   - HTML, CSS, JavaScript, Bootstrap  
+   - REACT
+   - TailwindCSS  
 
 2. Backend
-   - Django or Laravel  
-   - REST API  
+   - Supabase Backend  
+   - PostgreSQL Database
 
 3. Database
-   - MySQL or SQLite  
+   - Supabase  
 
-Hosting Options: Render, PythonAnywhere, or other lightweight cloud providers.
-
+4. Deployment
+   - Netlify
 ---
 
 Technologies Used
-- Frontend: HTML, CSS, JavaScript, Bootstrap  
-- Backend: Django (Python) or Laravel (PHP)  
-- Database: MySQL / SQLite  
-- Deployment: Render, PythonAnywhere  
-- Security: bcrypt/PBKDF2 hashing, CSRF protection, XSS prevention  
+- Frontend: REACT, TailwindCSS  
+- Backend: Supabase Backend, PostgreSQL Database  
+- Database: Supabase
+- Deployment: Netlify    
 
 ---
 
@@ -138,12 +138,13 @@ git clone https://github.com/your-repo/HostelFinder.git
 cd HostelFinder
 
 ```
-2. Backend Setup (Django Example)
+2. Install Necessary dependencies
+3. Run
+
 ```
-pip install -r requirements.txt
-python manage.py migrate
-python manage.py runserver
+npm run dev
 ```
+
 
 [Contributors](./CONTRIBUTORS.md)
 

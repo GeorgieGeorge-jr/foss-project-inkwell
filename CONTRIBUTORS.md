@@ -4,22 +4,27 @@ This project was developed by **Group D (Inkwell)** as part of the AI Software E
 
 Team Members
 
-👤 Project Lead
-- [Add Name]
+Project Lead
+- Iwuh Chidubem 22/0289
 
-👤 Backend Developers
-- [Add Name]
-- [Add Name]
+Backend Developers
+- George George Imeh 22/0097
+- Eze-Bekee David 22/0088
 
-👤 Frontend Developers
-- [Add Name]
-- [Add Name]
+Frontend Developers
+- Kalejaiye Abdulrahman 22/0272
+- Olaifa Oladapo Fuad 22/0330
+- Oladoyin Oluwapamilerin 22/0072
 
-👤 Documentation & Requirements
+Documentation & Requirements
 - Kalu Joshua 22/0127
 
-👤 UI/UX Design
-- [Add Name]
+UI/UX Design
+- Okorie Noble Chibueze 22/2900
+- Ezembaukwu Vincent Izunwanne 22/0115
+
+Testing
+- Ikhioya Clarence 22/0054
 
 ---
 

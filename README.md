@@ -60,14 +60,10 @@ HostelFinder consists of:
    - REACT
    - TailwindCSS  
 
-2. Backend
-   - Supabase Backend  
-   - PostgreSQL Database
-
-3. Database
+2. Backend/DB
    - Supabase  
 
-4. Deployment
+3. Deployment
    - Netlify
 ---
 
